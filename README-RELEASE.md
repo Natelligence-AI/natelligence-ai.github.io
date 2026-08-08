@@ -29,3 +29,6 @@ Upload/commit the contents of this folder to:
 `Natelligence-AI/natelligenceai.github.io`
 
 The website is intentionally static and does not require a build step or JavaScript runtime.
+
+## Favicon
+The site includes `favicon.ico` and `assets/favicon.png`, generated from the Natelligence AI circular logo.
